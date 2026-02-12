@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/W_Docking.png">
+  <img src="/images/W_Docking.jpg">
 </div>
 
 # Docking
